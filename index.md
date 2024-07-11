@@ -1196,7 +1196,6 @@
 | bufo-thinks-about-azure-front-door-intensifies.gif | ![bufo-thinks-about-azure-front-door-intensifies.gif](all-the-bufo/bufo-thinks-about-azure-front-door-intensifies.gif) |
 | bufo-thinks-about-azure-front-door.gif | ![bufo-thinks-about-azure-front-door.gif](all-the-bufo/bufo-thinks-about-azure-front-door.gif) |
 | bufo-thinks-about-azure.png | ![bufo-thinks-about-azure.png](all-the-bufo/bufo-thinks-about-azure.png) |
-| bufo-thinks-about-buring-azure-to-the-ground.gif | ![bufo-thinks-about-buring-azure-to-the-ground.gif](all-the-bufo/bufo-thinks-about-buring-azure-to-the-ground.gif) |
 | bufo-thinks-about-cheeky-nandos.png | ![bufo-thinks-about-cheeky-nandos.png](all-the-bufo/bufo-thinks-about-cheeky-nandos.png) |
 | bufo-thinks-about-chocolate.png | ![bufo-thinks-about-chocolate.png](all-the-bufo/bufo-thinks-about-chocolate.png) |
 | bufo-thinks-about-climbing.png | ![bufo-thinks-about-climbing.png](all-the-bufo/bufo-thinks-about-climbing.png) |
